@@ -1,0 +1,36 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 20px;
+}
+.lineOne{
+    display: flex;
+    gap:165px;
+}
+.wrapper span{
+    padding: 10px 20px;
+    background: white;
+    box-shadow: 1px 1px 1px #fff;
+    border-radius: 20px;
+}
+.lineTwo{
+    display: flex;
+    gap:20px;
+}
+.lineTwo div{
+    display: flex;
+    gap:20px;
+}
+
+.wrapper button{
+    background: green;
+    padding:10px 20px;
+    color:black;
+    border-radius: 100%;
+}
+
+
+
